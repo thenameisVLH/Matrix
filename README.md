@@ -71,7 +71,39 @@ Gives coins to a user. Can only be done by Administrators.
 
 You can enable your prize to show on your profile.
 
+//ban (User)
+
+Only for moderators.
+
+//unban (User)
+
+Only for moderators.
 
 Head to the website Below:
 
 https://matrixvlh.wordpress.com/
+
+
+Privacy Policy:
+
+What We Collect:
+
+Usernames, User IDs, User Discriminator, and User Avatar URL.
+
+Server ID, Server Prefix.
+
+Contact us through our Support Server.
+
+Rules:
+
+Do NOT Cheat when solving a math problem given by the Bot. (If we find you cheating, you will be banned.)
+
+No spamming Commands.
+
+No exploiting bugs in the bot. Go to the Support Server to contact one of the Administrators.
+
+No Advertising anything within the bot.
+
+No exchanging curriencies from Matrix Coins to other curriencies / or any real money.
+
+Nothing innapropriate in usernames or profile pictures.
