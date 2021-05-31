@@ -43,7 +43,7 @@ This shows the shop and items that it has. Once you collect all of the items, yo
 
 !profile
 
-Shows your profile and if you want to see other people's profile, then type //profile (user). You have to ping them.
+Shows your profile and if you want to see other people's profile, then type !profile (user). You have to ping them.
 
 !rules
 
