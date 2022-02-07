@@ -5,7 +5,7 @@ Matrix is a Discord Bot that creates polls.
 
 All commands:
 
-!poll (minutes) (Picture) (Description) (Options such as One, Two, Three ... Max is 10.)
+!poll (message) (Which option is which reaction.)
 
 Head to the website Below:
 
