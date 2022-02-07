@@ -5,7 +5,7 @@ client = commands.Bot(command_prefix="!")
 
 @client.event
 async def on_ready():
-    await client.change_presence(status=discord.Status.idle, activity=discord.Game('Hello'))
+    await client.change_presence(status=discord.Status.idle, activity=discord.Game('FTC'))
     print("Matrix by VLH is now online.")
     print (client.user.name)
 
