@@ -20,5 +20,5 @@ async def poll(ctx,*,message):
 
     await ctx.message.delete()
 
-client.run("ODQ4NzExMzg0MDMxNTU5Njky.YLQmEg.8azVrz_z6x9D4CboliiknZgZcuI")
+client.run("Bot_Token")
                                            
