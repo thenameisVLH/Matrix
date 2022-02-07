@@ -1,25 +1,11 @@
 # Matrix
 Matrix Discord Bot - Privacy Policy - Rules - and Overview
 
-Matrix is a Discord Bot to administer your discord server and create polls.
-
-The prefix is !. It can be changed.
-
-Commands:
-
-!help
-
-This shows all of the commands the bot has.
-
-!help (command)
-
-In the place of (command), type any command that the !help command shows. This shows what the bot does when this command is used.
+Matrix is a Discord Bot that creates polls.
 
 All commands:
 
-!help
-
-This command shows all of the commands, what each command does, and what the bot can do.
+!poll (minutes) (Picture) (Description) (Options such as One, Two, Three ... Max is 10.)
 
 Head to the website Below:
 
