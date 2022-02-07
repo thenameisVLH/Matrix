@@ -49,4 +49,4 @@ async def poll(ctx,*,message):
 async def ping(ctx):
      await ctx.send(f'Pong! In {round(client.latency * 1000)}ms')
 
-client.run("ODQ4NzExMzg0MDMxNTU5Njky.YLQmEg.KfDcvhQoQzenUe-ODyezt9ScT3A")
+client.run("Bot_Token")
