@@ -3,10 +3,6 @@ Matrix Discord Bot - Privacy Policy - Rules - and Overview
 
 Matrix is a Discord Bot that creates polls.
 
-All commands:
-
-!poll (message) (Which option is which reaction.)
-
 Head to the website Below:
 
 https://matrixvlh.wordpress.com/
