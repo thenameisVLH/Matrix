@@ -1,7 +1,7 @@
 # Matrix
 Matrix Discord Bot - Privacy Policy - Rules - and Overview
 
-Matrix is a Discord Bot that creates polls.
+Matrix is a Discord Bot that creates polls, has miscellaneous commands, and is an administration bot.
 
 Head to the website Below:
 
