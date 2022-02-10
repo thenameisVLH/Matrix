@@ -3,7 +3,7 @@ Matrix Discord Bot - Privacy Policy - Rules - and Overview
 
 Matrix is a Discord Bot that creates polls, has miscellaneous commands, and is an administration bot.
 
-It's prefix is !.
+**It's prefix is !.
 
 
 Commands of Matrix by VLH:
@@ -38,7 +38,7 @@ Administration Commands:
 
 !mute @user reason- Mutes the user.
 
-!unmute @user - Unmutes the user.
+!unmute @user - Unmutes the user.**
 
 
 ^ Matrix by VLH Commands ^
