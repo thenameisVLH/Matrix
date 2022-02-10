@@ -3,6 +3,46 @@ Matrix Discord Bot - Privacy Policy - Rules - and Overview
 
 Matrix is a Discord Bot that creates polls, has miscellaneous commands, and is an administration bot.
 
+It's prefix is !.
+
+
+Commands of Matrix by VLH:
+
+@Matrix - Ping the bot to find out the prefix.
+
+!help - Help Command
+
+!avatar or !avatar @user - Shows your or someone else's avatar.
+
+!ping - Shows the ping of the bot.
+
+!poll (message) (which reaction means which one) - Simple poll with only two options.
+
+!say (anything) - Just says one word that you say
+
+!8ball (message) - You can 8ball anything. There are more than 20 options.
+
+Administration Commands:
+
+!purge (amount of messages) - Purges/Deletes the amount of messages you want to delete.
+
+!slowmode (seconds) - Changes the slowmode of the channel in seconds.
+
+!kick @user - Kicks the user out.
+
+!ban @user - Bans the user from your server.
+
+!lockdown - Locks down the channel you are in.
+
+!unlock - Unlocks the channel you are in.
+
+!mute @user reason- Mutes the user.
+
+!unmute @user - Unmutes the user.
+
+
+^ Matrix by VLH Commands ^
+
 Head to the website Below:
 
 https://matrixvlh.wordpress.com/
@@ -23,3 +63,6 @@ Rules:
 No spamming Commands.
 
 No exploiting bugs in the bot. Go to the Support Server to contact one of the Administrators.
+
+
+Copyright 2020 - 2022
