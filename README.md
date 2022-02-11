@@ -20,6 +20,8 @@ Commands of Matrix by VLH:
 
 !help - Help Command
 
+!support - Sends the discord link to the Offical Matrix Discord Server.
+
 !avatar or !avatar @user - Shows your or someone else's avatar.
 
 !ping - Shows the ping of the bot.
@@ -46,11 +48,13 @@ Administration Commands:
 
 !mute @user reason- Mutes the user.
 
-!unmute @user - Unmutes the user.**
+!unmute @user - Unmutes the user.
 
+!role @user role - Add a role to a person
 
+!role @user role - If the person already has this role, you can remove it from them. It is the same command as the add role.
 
-
+!invite - Creates a link for the server and channel you are in.
 
 
 
