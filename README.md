@@ -5,7 +5,7 @@ Matrix is a Discord Bot that creates polls, has miscellaneous commands, and is a
 
 It's prefix is !.
 
-
+Add Matrix to your server NOW! https://discord.com/api/oauth2/authorize?client_id=848711384031559692&permissions=8&scope=bot
 
 
 
