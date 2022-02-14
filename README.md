@@ -32,6 +32,10 @@ Commands of Matrix by VLH:
 
 !8ball (message) - You can 8ball anything. There are more than 20 options.
 
+!invite - Creates a link for the server and channel you are in.
+
+!membercount - Tells the amount of members in your server. (Including Bots)
+
 Administration Commands:
 
 !purge (amount of messages) - Purges/Deletes the amount of messages you want to delete.
@@ -53,8 +57,6 @@ Administration Commands:
 !role @user role - Add a role to a person
 
 !role @user role - If the person already has this role, you can remove it from them. It is the same command as the add role.
-
-!invite - Creates a link for the server and channel you are in.
 
 
 
