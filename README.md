@@ -36,6 +36,10 @@ Commands of Matrix by VLH:
 
 !membercount - Tells the amount of members in your server. (Including Bots)
 
+!coinflip - Gives you either heads or tails.
+
+!roll - rolls a dice with sides 4, 6, 8, 10, 12, or 20.
+
 Administration Commands:
 
 !purge (amount of messages) - Purges/Deletes the amount of messages you want to delete.
