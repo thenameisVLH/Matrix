@@ -38,7 +38,7 @@ Commands of Matrix by VLH:
 
 !coinflip - Gives you either heads or tails.
 
-!roll - rolls a dice with sides 4, 6, 8, 10, 12, or 20.
+!rolldice - rolls a dice with sides 4, 6, 8, 10, 12, or 20.
 
 Administration Commands:
 
